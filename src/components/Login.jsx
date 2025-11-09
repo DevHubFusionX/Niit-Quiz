@@ -114,7 +114,7 @@ const Login = ({ darkMode, onLogin }) => {
               }`}>
                 <BookOpen className="w-12 h-12 opacity-90" />
               </div>
-              <h1 className="text-4xl font-bold mb-4">NIIT Quiz App</h1>
+              <h1 className="text-4xl font-bold mb-4">NIIT HUB</h1>
               <p className="text-xl opacity-90 leading-relaxed">
                 Master your certification with our comprehensive quiz platform
               </p>

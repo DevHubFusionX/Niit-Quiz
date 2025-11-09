@@ -46,7 +46,7 @@ const TopBar = ({ darkMode, toggleDarkMode, onLogout }) => {
           <div className={`p-2 rounded-lg ${darkMode ? 'bg-blue-500/20' : 'bg-blue-100'}`}>
             <BookOpen className={`w-6 h-6 ${darkMode ? 'text-blue-400' : 'text-blue-600'}`} />
           </div>
-          <h1 className="theme-text-primary text-xl font-bold">NIIT Quiz</h1>
+          <h1 className="theme-text-primary text-xl font-bold">NIIT HUB</h1>
         </div>
 
         {/* Search Bar */}
