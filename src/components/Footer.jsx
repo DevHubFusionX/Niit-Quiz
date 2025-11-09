@@ -16,7 +16,7 @@ const Footer = ({ darkMode }) => {
                 <div className="w-10 h-10 bg-gradient-to-r from-blue-800 to-cyan-500 rounded-lg flex items-center justify-center">
                   <span className="text-white font-bold">N</span>
                 </div>
-                <span className="text-2xl font-bold theme-text-primary">NIIT Quiz Hub</span>
+                <span className="text-2xl font-bold theme-text-primary">NIIT HUB</span>
               </div>
               <p className="theme-text-secondary mb-4 max-w-md">
                 Empowering NIIT students to achieve excellence through interactive learning, 
@@ -67,7 +67,7 @@ const Footer = ({ darkMode }) => {
                 <span>for NIIT students worldwide</span>
               </div>
               <div className="theme-text-tertiary text-sm">
-                © 2024 NIIT Quiz Hub. All rights reserved.
+                © 2024 NIIT HUB. All rights reserved.
               </div>
             </div>
           </div>
